@@ -22,5 +22,4 @@ An event is a simple JSON object (or python dict) with the following structure:
         ],
     'MET': {'et': float, 'phi': float}
 }
-    
 ```
